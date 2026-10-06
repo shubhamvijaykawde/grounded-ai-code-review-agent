@@ -344,7 +344,7 @@ The current MVP has several deliberate limitations:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/grounded-ai-code-review-agent.git
+git clone https://github.com/shubhamvijaykawde/grounded-ai-code-review-agent.git
 cd grounded-ai-code-review-agent
 ```
 
