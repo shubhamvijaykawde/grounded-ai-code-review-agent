@@ -1,0 +1,15 @@
+requests
+pydantic
+pytest
+ruff
+radon
+bandit
+
+numpy
+sentence-transformers
+faiss-cpu
+scikit-learn
+requests
+groq
+python-dotenv
+streamlit
